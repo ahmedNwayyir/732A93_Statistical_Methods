@@ -3,8 +3,8 @@ title: "Statistical Methods"
 author: "Ahmed Alhasan"
 date: "10/10/2019"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 
