@@ -38,7 +38,7 @@ The course covers:
 The teaching comprises lectures, seminars, and computer exercises complemented by self-studies. The lectures are devoted to presentations of concepts, theories and methods. The computer exercises provide practical experience of statistical analysis. The seminars comprise presentations and discussions of various assignments.
 
 
-# Examination
+## Examination
 
 Written reports on home assignments. One final written examination. Detailed information about the examination can be found in the course’s study guide.
 
