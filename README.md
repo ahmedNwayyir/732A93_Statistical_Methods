@@ -4,8 +4,6 @@ Linköping University, 1st semester 2019
 
 ## Intended learning outcomes
 
-After completion of the course the student should be able to:
-
 - use knowledge of the common statistical distributions for building statistical models,
 - apply main principles within point estimation, interval estimation and hypothesis testing,
 - demonstrate a good understanding of the main concepts of Bayesian analysis,
